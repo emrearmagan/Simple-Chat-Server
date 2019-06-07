@@ -1,7 +1,7 @@
 package server
 
 import (
-	"Go/ChatServer/client"
+	"Chat-Server/client"
 	"bufio"
 	"fmt"
 	"net"
